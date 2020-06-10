@@ -1,2 +1,1 @@
-# pokemon-rejuvenation-v12-nuzlocke
-2nd nuzlocke
+# pokemon-rejuvenation-v12-intense_mode
